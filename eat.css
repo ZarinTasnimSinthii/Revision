@@ -1,0 +1,97 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+
+.orrange-color {
+    color: orange;
+}
+
+.Button {
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 7px;
+    color: white;
+}
+
+.display-flex1 {
+    display: flex;
+    background-image: url(eat-healthy-images/images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+
+}
+
+.display-flex2 {
+    display: flex;
+    background-image: url(eat-healthy-images/images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+
+}
+
+.display-flex3 {
+    display: flex;
+}
+
+.center {
+    text-align: center;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.box {
+    width: 50%;
+    box-shadow: 25px 5px 40px gray;
+    margin-right: 30px;
+    margin-left: 30px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+}
+
+.number {
+    background-color: whitesmoke;
+    height: 200px;
+    width: 700px;
+    margin-left: 150px;
+
+    border-radius: 10px;
+    display: flex;
+
+}
+
+.foot {
+    background-color: black;
+    height: 200px;
+    text-align: center;
+}
+
+.white-color {
+    color: blanchedalmond;
+}
