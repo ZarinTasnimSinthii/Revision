@@ -1,0 +1,73 @@
+body {
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Lobster Two', cursive;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Roboto Slab', serif;
+    margin: 0;
+}
+
+.orrange-color {
+    color: orange;
+}
+
+.Button {
+    background-image: linear-gradient(orange, tomato);
+    text-decoration: none;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 7px;
+    color: white;
+}
+
+.display-flex1 {
+    display: flex;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.display-flex2 {
+    display: flex;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.display-flex3 {
+    display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+div img {
+    width: 100%;
+}
+
+.box {
+    width: 40%;
+    box-shadow: 10px 10px 40px gray;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+
+.box1 {
+    border-left: 5px solid orange;
+}
+
+.box2 {
+    border-left: 5px solid blue;
+}
+
+footer {
+    text-align: center;
+}
